@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T17:43:48.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mSOtqMPiXJISdlg0M7qt" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T17:53:55.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="qR7wcbTmDS5dR1CNwpCA" version="24.5.3" type="github">
   <diagram name="Page-1" id="uhg0Zwt1VI-KVjr3YC5X">
-    <mxGraphModel dx="1909" dy="2113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2149,9 +2149,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hm6dWpJ6eOwnogD7MvKJ-306" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;To add SHIPMENT and STOCK&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="220" y="-610" width="110" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="Hm6dWpJ6eOwnogD7MvKJ-308" value="stock" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="580" y="565" width="180" height="150" as="geometry" />
         </mxCell>
@@ -2240,7 +2237,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hm6dWpJ6eOwnogD7MvKJ-331" value="oreder_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="Hm6dWpJ6eOwnogD7MvKJ-329" vertex="1">
+        <mxCell id="Hm6dWpJ6eOwnogD7MvKJ-331" value="order_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="Hm6dWpJ6eOwnogD7MvKJ-329" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2286,8 +2283,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QotBgJcjPmH5r8NfcdB1-1" value="ORDER OF MIGRATIONS&lt;div&gt;1. country&lt;/div&gt;&lt;div&gt;2. adress&lt;/div&gt;&lt;div&gt;3. membership_type&lt;/div&gt;&lt;div&gt;4. user&lt;/div&gt;&lt;div&gt;5. user_adress&lt;/div&gt;&lt;div&gt;6. payment_type&lt;/div&gt;&lt;div&gt;7. user_payment_method&lt;/div&gt;&lt;div&gt;8. promotion&lt;/div&gt;&lt;div&gt;9. product_category&lt;/div&gt;&lt;div&gt;10. product_category_discount&lt;/div&gt;&lt;div&gt;11. promotion_category&lt;/div&gt;&lt;div&gt;12. product&lt;/div&gt;&lt;div&gt;13. product_item&lt;/div&gt;&lt;div&gt;14. variation&lt;/div&gt;&lt;div&gt;15. variation_option&lt;/div&gt;&lt;div&gt;16. product_configuration&lt;/div&gt;&lt;div&gt;17. product_pricing&lt;/div&gt;&lt;div&gt;18. product_discount&lt;/div&gt;&lt;div&gt;19. stock&lt;/div&gt;&lt;div&gt;20. shopping_cart&lt;/div&gt;&lt;div&gt;21. shopping_cart_item&lt;/div&gt;&lt;div&gt;22. shipping_method&lt;/div&gt;&lt;div&gt;23. order_status&lt;/div&gt;&lt;div&gt;24. shop_order&lt;/div&gt;&lt;div&gt;25. invoice&lt;/div&gt;&lt;div&gt;26. order_line&lt;/div&gt;&lt;div&gt;27. user_review&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-255" width="260" height="435" as="geometry" />
+        <mxCell id="QotBgJcjPmH5r8NfcdB1-1" value="ORDER OF MIGRATIONS&lt;div&gt;1. country&lt;/div&gt;&lt;div&gt;2. adress&lt;/div&gt;&lt;div&gt;3. membership_type&lt;/div&gt;&lt;div&gt;4. user&lt;/div&gt;&lt;div&gt;5. user_reward_point_log&lt;/div&gt;&lt;div&gt;6. user_adress&lt;/div&gt;&lt;div&gt;7. payment_type&lt;/div&gt;&lt;div&gt;8. user_payment_method&lt;/div&gt;&lt;div&gt;9. promotion&lt;/div&gt;&lt;div&gt;10. product_category&lt;/div&gt;&lt;div&gt;11. product_category_discount&lt;/div&gt;&lt;div&gt;12. promotion_category&lt;/div&gt;&lt;div&gt;13. product&lt;/div&gt;&lt;div&gt;14. product_item&lt;/div&gt;&lt;div&gt;15. variation&lt;/div&gt;&lt;div&gt;16. variation_option&lt;/div&gt;&lt;div&gt;17. product_configuration&lt;/div&gt;&lt;div&gt;18. product_pricing&lt;/div&gt;&lt;div&gt;19. product_discount&lt;/div&gt;&lt;div&gt;20. stock&lt;/div&gt;&lt;div&gt;21. shopping_cart&lt;/div&gt;&lt;div&gt;22. shopping_cart_item&lt;/div&gt;&lt;div&gt;23. shipping_method&lt;/div&gt;&lt;div&gt;24. order_status&lt;/div&gt;&lt;div&gt;25. shop_order&lt;/div&gt;&lt;div&gt;26. invoice&lt;/div&gt;&lt;div&gt;27. order_line&lt;/div&gt;&lt;div&gt;28. user_review&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-920" width="260" height="435" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
