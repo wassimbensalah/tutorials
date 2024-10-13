@@ -3512,13 +3512,13 @@
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zj9b3PSQY7-n_aCUhcDo-80" value="&lt;div&gt;Membership&lt;/div&gt;&lt;div&gt;Category&lt;/div&gt;&lt;div&gt;Product&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="Zj9b3PSQY7-n_aCUhcDo-80" value="&lt;div&gt;Membership&lt;/div&gt;&lt;div&gt;Cart&lt;/div&gt;&lt;div&gt;Category&lt;/div&gt;&lt;div&gt;Product&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="670" y="2200" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Zj9b3PSQY7-n_aCUhcDo-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zj9b3PSQY7-n_aCUhcDo-77" target="Zj9b3PSQY7-n_aCUhcDo-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zj9b3PSQY7-n_aCUhcDo-82" value="&lt;li&gt;&lt;code&gt;percentage&lt;/code&gt;: Discount as a percentage off the total.&lt;/li&gt;&lt;li&gt;&lt;code&gt;fixed_amount&lt;/code&gt;: A fixed amount discount (e.g., $10 off).&lt;/li&gt;&lt;li&gt;&lt;code&gt;free_shipping&lt;/code&gt;: Free shipping coupon.&lt;/li&gt;&lt;li&gt;&lt;code&gt;product_specific&lt;/code&gt;: Discount tied to a particular product.&lt;/li&gt;&lt;li&gt;&lt;code&gt;category_specific&lt;/code&gt;: Discount tied to a product category.&lt;/li&gt;&lt;li&gt;&lt;code&gt;bogo&lt;/code&gt;: Buy One, Get One discount.&lt;/li&gt;&lt;li&gt;&lt;code&gt;loyalty&lt;/code&gt;: Discount for specific membership tiers.&lt;/li&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+        <mxCell id="Zj9b3PSQY7-n_aCUhcDo-82" value="&lt;li&gt;&lt;code&gt;percentage&lt;/code&gt;: Discount as a percentage off the total.&lt;/li&gt;&lt;li&gt;&lt;code&gt;fixed_amount&lt;/code&gt;: A fixed amount discount (e.g., $10 off).&lt;/li&gt;&lt;li&gt;&lt;code&gt;free_shipping&lt;/code&gt;: Free shipping coupon.&lt;/li&gt;&lt;li&gt;&lt;code style=&quot;background-color: initial;&quot;&gt;bogo&lt;/code&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: Buy One, Get One discount.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;buy X Get Y&lt;/code&gt;: .&lt;/li&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
           <mxGeometry x="820" y="2100" width="360" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Zj9b3PSQY7-n_aCUhcDo-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zj9b3PSQY7-n_aCUhcDo-12" target="Zj9b3PSQY7-n_aCUhcDo-82">
