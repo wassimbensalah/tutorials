@@ -3914,7 +3914,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7yrAq3QRVEPV8HXuurn-1" value="&lt;div style=&quot;text-align: justify; line-height: 200%;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;https://help.salesforce.com/s/articleView?id=ind.comms_sequential_promotions_and_discounts.htm&amp;amp;type=5&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="M7yrAq3QRVEPV8HXuurn-1" value="&lt;div style=&quot;text-align: justify; line-height: 200%;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;https://help.salesforce.com/s/articleView?id=ind.comms_sequential_promotions_and_discounts.htm&amp;amp;type=5&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 200%;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 200%;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;https://commercelayer.io/docs/data-model/price-lists-and-currencies&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1960" y="1300" width="670" height="160" as="geometry" />
         </mxCell>
       </root>
