@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="Q8ymoyHF8scns6pMGebp">
-    <mxGraphModel dx="4016" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3003" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -638,8 +638,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s9qQOlXalYQjX3ksOdtq-129" value="Goal&lt;div&gt;Assist&lt;/div&gt;&lt;div&gt;Foul&lt;/div&gt;&lt;div&gt;shot on goal&lt;/div&gt;&lt;div&gt;shot off goal&lt;/div&gt;&lt;div&gt;offside&lt;/div&gt;&lt;div&gt;corner&lt;/div&gt;&lt;div&gt;sub&lt;/div&gt;&lt;div&gt;penalty awarded&lt;/div&gt;&lt;div&gt;yellow card&lt;/div&gt;&lt;div&gt;red card&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillOpacity=100;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="1850" width="150" height="180" as="geometry" />
+        <mxCell id="s9qQOlXalYQjX3ksOdtq-129" value="Goal&lt;div&gt;Assist&lt;/div&gt;&lt;div&gt;Foul&lt;/div&gt;&lt;div&gt;shot on goal&lt;/div&gt;&lt;div&gt;shot off goal&lt;/div&gt;&lt;div&gt;offside&lt;/div&gt;&lt;div&gt;corner&lt;/div&gt;&lt;div&gt;sub&lt;/div&gt;&lt;div&gt;penalty awarded&lt;/div&gt;&lt;div&gt;yellow card&lt;/div&gt;&lt;div&gt;red card&lt;/div&gt;&lt;div&gt;penalty save&lt;/div&gt;&lt;div&gt;penalty miss&lt;/div&gt;&lt;div&gt;save&lt;/div&gt;&lt;div&gt;dribble&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillOpacity=100;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="1850" width="180" height="220" as="geometry" />
         </mxCell>
         <mxCell id="s9qQOlXalYQjX3ksOdtq-133" value="Lineup" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillOpacity=100;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-1110" y="1150" width="140" height="300" as="geometry" />
@@ -735,7 +735,7 @@
         <mxCell id="s9qQOlXalYQjX3ksOdtq-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillOpacity=100;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="s9qQOlXalYQjX3ksOdtq-156" target="s9qQOlXalYQjX3ksOdtq-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s9qQOlXalYQjX3ksOdtq-156" value="Attack&lt;div&gt;Defense&lt;/div&gt;&lt;div&gt;Set Piece&lt;/div&gt;&lt;div&gt;Admin&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillOpacity=100;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="s9qQOlXalYQjX3ksOdtq-156" value="Attack&lt;div&gt;Defense&lt;/div&gt;&lt;div&gt;Set Piece&lt;/div&gt;&lt;div&gt;Discipline&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillOpacity=100;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-650" y="1760" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="s9qQOlXalYQjX3ksOdtq-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;fillOpacity=100;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="s9qQOlXalYQjX3ksOdtq-58" target="s9qQOlXalYQjX3ksOdtq-135">
